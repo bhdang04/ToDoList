@@ -51,10 +51,11 @@ The program uses basic C++ features such as arrays, loops, conditionals, and fun
    ```
 2. **Run The Program**: After compiling, run the program with the following command:
 
-  ```bash
-  ./ToDoList
-```
+   ```bash
+   ./ToDoList
+   ```
 ## Example Output
+```mathematica
 <-------- Choose Options (1-5) -------->
 1. Add to List
 2. Remove to List
@@ -65,3 +66,4 @@ Pick a number to select that option: 2
 Select the number to remove from your To-Do List (0 = clear all): 1 
 Deleted Successfully 
 Press Any Key To Exit...
+```
